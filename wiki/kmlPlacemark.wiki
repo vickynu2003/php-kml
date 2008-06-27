@@ -1,9 +1,6 @@
 #summary kml_Placemark class
-==class kml_Placemark==
 
-
-This class represents a `<Placemark>` element.
-
+_This class represents a `<Placemark>` element._
 
 *Extends* _kml_Feature_
 
