@@ -1,0 +1,22 @@
+#summary kml_Placemark class
+==class kml_Placemark==
+
+
+This class represents a `<Placemark>` element.
+
+
+*Extends* _kml_Feature_
+
+===Constructor===
+function kml_Placemark($name = null, $Geometry = null)
+
+{{{
+$a = new Placemark('My Place');
+}}}
+----
+===Methods===
+function add_Geometry($Geometry)
+
+{{{
+$a->add_Geometry(new kml_Point(10.373, 36.932));
+}}}
