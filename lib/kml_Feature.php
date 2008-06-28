@@ -1,4 +1,13 @@
 <?php
+/**<Feature> rendering class.
+ *
+ * .... 
+ * 
+ * $Rev$
+ */
+
+
+
 include_once('kml_Object.php');
 
 
