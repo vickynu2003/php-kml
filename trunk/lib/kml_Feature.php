@@ -7,14 +7,9 @@
  */
 
 
+abstract class kml_Feature extends kml_Object {
 
-include_once('kml_Object.php');
-
-
-
-class kml_Feature extends kml_Object {
-
-    var $tagName = 'Feature';
+    protected $tagName = 'Feature';
 
     var $name;
     var $visibility;
