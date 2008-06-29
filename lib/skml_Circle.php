@@ -1,32 +1,27 @@
 <?php
-/** Renders a circle in a <LineaRing>
+/** Renders a circle using <LineaRing>
  *
+ * @class skml_Circle
+ * 
  * A shortcut for drawing circles or even triangles ($steps = 3), squares
  * ($steps = 4) ....
  *
- *
- * Ex:.
- * include_once('kml_Polygon.php');
- * include_once('kml_Placemark.php');
- * include_once('kml_MultiGeometry.php');
- *
+ * \code
+ * // Example
+ * include_once('lib/kml.php');
  *
  * $discs = new kml_MultiGeometry();
  * for ($i = -180; $i < 180; $i++) {
- *    $disc = new kml_Polygon(new skml_Circle($i, 0, 0.5, 0, 3, $i / 100));
+ *    $disc = new kml_Polygon(new skml_Circle($i, 0, 0.5, 0, 3));
  *    $disc->add_innerBoundaryIs(new skml_Circle($i, 0, 0.1));
  *    $discs->add_Geometry($disc);
  * }
- * $placemark = new kml_Placemark('Lots of circles', $discs);
+ * $placemark = new kml_Placemark('Lots of punched triangles ', $discs);
  *
  * $placemark->dump();
- *
+ * \endcode
  */
 
-include_once('kml_LinearRing.php');
-
-
-/*******************************/
 
 class skml_Circle extends kml_LinearRing {
 

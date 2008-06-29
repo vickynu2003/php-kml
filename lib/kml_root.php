@@ -1,11 +1,16 @@
 <?php
 /**
+ * @main hello
+ * dsqdqsd
+ * sdqsdsqd
+ */
+
+
+/**
  * This is where the rendering and dumping happens
- *
  * $Id$
  */
 
-include_once('kml__init.php');
 
 class kml_root {
 
