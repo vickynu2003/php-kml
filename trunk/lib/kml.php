@@ -1,4 +1,11 @@
 <?php
+/**
+ *
+ * $Revision$
+ * $Rev$
+ * $Revision:$
+ */
+
 error_reporting(E_ALL);
 
 function __autoload($class_name) {
