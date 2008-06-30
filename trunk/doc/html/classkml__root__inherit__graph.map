@@ -1,0 +1,48 @@
+<area shape="rect" href="$classkml__Change.html" title="kml_Change" alt="" coords="177,101,284,125">
+<area shape="rect" href="$classkml__Create.html" title="kml_Create" alt="" coords="181,149,280,173">
+<area shape="rect" href="$classkml__Delete.html" title="kml_Delete" alt="" coords="181,197,280,221">
+<area shape="rect" href="$classkml__ItemIcon.html" title="kml_ItemIcon" alt="" coords="175,245,287,269">
+<area shape="rect" href="$classkml__LatLonAltBox.html" title="kml_LatLonAltBox" alt="" coords="160,293,301,317">
+<area shape="rect" href="$classkml__LatLonBox.html" title="kml_LatLonBox" alt="" coords="169,341,292,365">
+<area shape="rect" href="$classkml__Location.html" title="kml_Location" alt="" coords="175,389,287,413">
+<area shape="rect" href="$classkml__Lod.html" title="kml_Lod" alt="" coords="191,437,271,461">
+<area shape="rect" href="$classkml__NetworkLinkControl.html" title="kml_NetworkLinkControl" alt="" coords="137,485,324,509">
+<area shape="rect" href="$classkml__Object.html" title="kml_Object" alt="" coords="181,533,280,557">
+<area shape="rect" href="$classkml__Orientation.html" title="kml_Orientation" alt="" coords="167,581,295,605">
+<area shape="rect" href="$classkml__Pair.html" title="kml_Pair" alt="" coords="191,629,271,653">
+<area shape="rect" href="$classkml__Scale.html" title="kml_Scale" alt="" coords="184,677,277,701">
+<area shape="rect" href="$classkml__Schema.html" title="kml_Schema" alt="" coords="176,725,285,749">
+<area shape="rect" href="$classkml__SchemaField.html" title="kml_SchemaField" alt="" coords="159,773,303,797">
+<area shape="rect" href="$classkml__Snippet.html" title="kml_Snippet" alt="" coords="177,821,284,845">
+<area shape="rect" href="$classkml__Status.html" title="kml_Status" alt="" coords="183,869,279,893">
+<area shape="rect" href="$classkml__Update.html" title="kml_Update" alt="" coords="179,917,283,941">
+<area shape="rect" href="$classkml__BalloonStyle.html" title="kml_BalloonStyle" alt="" coords="391,77,529,101">
+<area shape="rect" href="$classkml__ColorStyle.html" title="kml_ColorStyle" alt="" coords="397,125,523,149">
+<area shape="rect" href="$classkml__Feature.html" title="&lt;Feature&gt; rendering class." alt="" coords="408,269,512,293">
+<area shape="rect" href="$classkml__Geometry.html" title="kml_Geometry" alt="" coords="400,389,520,413">
+<area shape="rect" href="$classkml__Icon.html" title="kml_Icon" alt="" coords="419,437,501,461">
+<area shape="rect" href="$classkml__Link.html" title="kml_Link" alt="" coords="420,485,500,509">
+<area shape="rect" href="$classkml__ListStyle.html" title="kml_ListStyle" alt="" coords="404,533,516,557">
+<area shape="rect" href="$classkml__LookAt.html" title="kml_LookAt" alt="" coords="409,581,511,605">
+<area shape="rect" href="$classkml__Region.html" title="kml_Region" alt="" coords="409,629,511,653">
+<area shape="rect" href="$classkml__StyleSelector.html" title="kml_StyleSelector" alt="" coords="387,677,533,701">
+<area shape="rect" href="$classkml__TimePrimitive.html" title="kml_TimePrimitive" alt="" coords="387,725,533,749">
+<area shape="rect" href="$classkml__IconStyle.html" title="kml_IconStyle" alt="" coords="613,5,731,29">
+<area shape="rect" href="$classkml__LabelStyle.html" title="kml_LabelStyle" alt="" coords="609,53,735,77">
+<area shape="rect" href="$classkml__LineStyle.html" title="kml_LineStyle" alt="" coords="613,101,731,125">
+<area shape="rect" href="$classkml__PolyStyle.html" title="kml_PolyStyle" alt="" coords="613,149,731,173">
+<area shape="rect" href="$classkml__Container.html" title="kml_Container" alt="" coords="612,197,732,221">
+<area shape="rect" href="$classkml__Overlay.html" title="kml_Overlay" alt="" coords="620,245,724,269">
+<area shape="rect" href="$classkml__Placemark.html" title="&lt;Placemark&gt; A visible object." alt="" coords="609,293,735,317">
+<area shape="rect" href="$classkml__LinearRing.html" title="&lt;LinearRing&gt;, a closed line string." alt="" coords="609,341,735,365">
+<area shape="rect" href="$classkml__LineString.html" title="&lt;LineString&gt; class." alt="" coords="611,389,733,413">
+<area shape="rect" href="$classkml__Model.html" title="kml_Model" alt="" coords="624,437,720,461">
+<area shape="rect" href="$classkml__MultiGeometry.html" title="kml_MultiGeometry" alt="" coords="596,485,748,509">
+<area shape="rect" href="$classkml__Point.html" title="kml_Point" alt="" coords="628,533,716,557">
+<area shape="rect" href="$classkml__Polygon.html" title="kml_Polygon" alt="" coords="617,581,727,605">
+<area shape="rect" href="$classkml__Style.html" title="kml_Style" alt="" coords="628,653,716,677">
+<area shape="rect" href="$classkml__StyleMap.html" title="kml_StyleMap" alt="" coords="613,701,731,725">
+<area shape="rect" href="$classkml__ObjArrayField.html" title="kml_ObjArrayField" alt="" coords="387,773,533,797">
+<area shape="rect" href="$classkml__ObjField.html" title="kml_ObjField" alt="" coords="404,821,516,845">
+<area shape="rect" href="$classkml__SimpleArrayField.html" title="kml_SimpleArrayField" alt="" coords="375,869,545,893">
+<area shape="rect" href="$classkml__SimpleField.html" title="kml_SimpleField" alt="" coords="392,917,528,941">
