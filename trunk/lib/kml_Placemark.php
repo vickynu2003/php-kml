@@ -1,4 +1,9 @@
 <?php
+/** <Placemark> A visible object.
+ *
+ * This class represents a <Placemark>
+ *
+ */
 
 class kml_Placemark extends kml_Feature {
 

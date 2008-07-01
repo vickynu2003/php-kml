@@ -28,7 +28,6 @@ class skml_Circle extends kml_LinearRing {
 
     /** Constructor.
      *
-     *
      * @param $lon longitude of the circle's center
      * @param $lat loatitude of the circle's center
      * @param $radius radius of the circle
@@ -39,23 +38,26 @@ class skml_Circle extends kml_LinearRing {
      */
     function skml_Circle($lon, $lat, $radius, $alt = 0, $steps = 40, $offset = 0) {
         
+        // we don't allow any mistake!
+        $steps = (int)$steps;
+        if ( $steps < 1 ) $steps = 1;
+
         $angle = $offset;
         $coordinates = array();
-
+        
         for ($i = 0; $i < $steps; $i++)
         {
-            $angle += 6.28 / $steps;
             $coordinates[] = array( 
                 $lon + $radius * cos($angle),
                 $lat + $radius * sin($angle),
                 $alt
             );
+            $angle += 6.28 / $steps;
         }
         // we need to close the circle
         $coordinates[] = $coordinates[0];
+        
         parent::kml_LinearRing($coordinates);
     }
 }
-
-
 
