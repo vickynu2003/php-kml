@@ -1,6 +1,6 @@
 <?php
 /**<Feature> rendering class.
- *
+ * @class kml_Feature
  * .... 
  * 
  * $Rev$
